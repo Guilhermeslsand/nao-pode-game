@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: 'nao-pode-game'
+  base: '/nao-pode-game/',
 })
